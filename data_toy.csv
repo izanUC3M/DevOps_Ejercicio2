@@ -1,0 +1,4 @@
+id,user_agent,method,uri_episode
+1,"Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",GET,/episode/1
+2,"Mozilla/5.0 (Windows NT 10.0; Win64; x64)",GET,/episode/2
+3,"SomeAgent",POST,/episode/3
